@@ -33,7 +33,7 @@ body.fixed-nav nav {
 header {
   text-align: center;
   height: 50vh;
-  background: url(https://images.pexels.com/photos/1051321/pexels-photo-1051321.jpeg) bottom center no-repeat;
+  background: url(https://images.pexels.com/photos/1051321/pexels-photo-1051321.jpeg) center center no-repeat;
   background-size: cover;
   display: flex;
   align-items: center;
